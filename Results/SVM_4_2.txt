@@ -1,0 +1,63 @@
+SVC(C=4.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma=2.0, kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+[[28308     0]
+ [16202    25]]
+[[34976     0]
+ [ 9541    18]]
+[[   43 25743]
+ [    0 18749]]
+---------------END MODEL--------------
+SVC(C=4.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma=2.0, kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+[[29692     0]
+ [14889     0]]
+[[33799     0]
+ [10782     0]]
+[[    0 25671]
+ [    0 18910]]
+---------------END MODEL--------------
+SVC(C=4.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma=2.0, kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+[[27529     0]
+ [14804     0]]
+[[32847     0]
+ [ 9486     0]]
+[[    0 24290]
+ [    0 18043]]
+---------------END MODEL--------------
+SVC(C=4.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma=2.0, kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+[[26779     0]
+ [16448    49]]
+[[34703     0]
+ [ 8522    51]]
+[[  100 24970]
+ [    0 18206]]
+---------------END MODEL--------------
+SVC(C=4.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma=2.0, kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+[[28371     0]
+ [15251    74]]
+[[33508     0]
+ [10119    69]]
+[[  143 25370]
+ [    0 18183]]
+---------------END MODEL--------------
+Model	Q3    	sov    	H acc 	E acc 	- acc 	H sen 	E sen 	- sen	H ppv	E ppv	- ppv 	H mcc 	E mcc 	- mcc
+0    	1.422 	29.7771	0.6362	0.7858	0.422 	0.636 	0.7857	1.0  	1.0  	1.0  	0.0017	0.0063	0.0091	inf  
+1    	1.4242	28.493 	0.666 	0.7581	0.4242	0.666 	0.7581	nan  	1.0  	1.0  	0.0   	nan   	nan   	nan  
+2    	1.4262	27.3326	0.6503	0.7759	0.4262	0.6503	0.7759	nan  	1.0  	1.0  	0.0   	nan   	nan   	nan  
+3    	1.423 	30.6575	0.6199	0.8031	0.423 	0.6195	0.8028	1.0  	1.0  	1.0  	0.004 	0.0061	0.0097	inf  
+4    	1.4194	27.5658	0.651 	0.7684	0.4194	0.6504	0.7681	1.0  	1.0  	1.0  	0.0056	0.0065	0.0087	inf  
+mean 	1.423 	28.7652	0.6447	0.7783	0.423 	0.6444	0.7781	nan  	1.0  	1.0  	0.0023	nan   	nan   	nan  
+error	0.001 	0.5716 	0.007 	0.0069	0.001 	0.007 	0.0069	nan  	0.0  	0.0  	0.001 	nan   	nan   	nan  

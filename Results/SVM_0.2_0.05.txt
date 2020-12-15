@@ -1,0 +1,63 @@
+SVC(C=0.2, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma=0.05, kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+[[22464  5844]
+ [ 4569 11658]]
+[[32485  2491]
+ [ 5785  3774]]
+[[18853  6933]
+ [ 4914 13835]]
+---------------END MODEL--------------
+SVC(C=0.2, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma=0.05, kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+[[23466  6226]
+ [ 4212 10677]]
+[[31403  2396]
+ [ 6473  4309]]
+[[18646  7025]
+ [ 4962 13948]]
+---------------END MODEL--------------
+SVC(C=0.2, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma=0.05, kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+[[22264  5265]
+ [ 4308 10496]]
+[[30428  2419]
+ [ 5497  3989]]
+[[17605  6685]
+ [ 4564 13479]]
+---------------END MODEL--------------
+SVC(C=0.2, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma=0.05, kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+[[21446  5333]
+ [ 4939 11558]]
+[[31997  2706]
+ [ 5128  3445]]
+[[18344  6726]
+ [ 4698 13508]]
+---------------END MODEL--------------
+SVC(C=0.2, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma=0.05, kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+[[22501  5870]
+ [ 4564 10761]]
+[[31180  2328]
+ [ 6176  4012]]
+[[18274  7239]
+ [ 4697 13486]]
+---------------END MODEL--------------
+Model	Q3    	sov     	H acc 	E acc 	- acc 	H sen 	E sen 	- sen 	H ppv 	E ppv 	- ppv 	H mcc 	E mcc 	- mcc 
+0    	1.6572	225.6904	0.7662	0.8142	0.734 	0.831 	0.8488	0.7932	0.7936	0.9288	0.7311	0.0088	0.008 	0.0077
+1    	1.649 	235.4779	0.7659	0.8011	0.7311	0.8478	0.8291	0.7898	0.7903	0.9291	0.7263	0.009 	0.0077	0.0076
+2    	1.6606	221.6397	0.7739	0.813 	0.7343	0.8379	0.847 	0.7941	0.8087	0.9264	0.7248	0.0092	0.0084	0.008 
+3    	1.6588	225.401 	0.7626	0.819 	0.736 	0.8128	0.8619	0.7961	0.8009	0.922 	0.7317	0.0085	0.0081	0.0079
+4    	1.6467	217.8249	0.7612	0.8054	0.7268	0.8314	0.8347	0.7955	0.7931	0.9305	0.7163	0.0086	0.0079	0.0077
+mean 	1.6545	225.2068	0.766 	0.8105	0.7324	0.8322	0.8443	0.7938	0.7973	0.9274	0.726 	0.0088	0.008 	0.0078
+error	0.0025	2.6305  	0.002 	0.0029	0.0014	0.0051	0.0051	0.001 	0.003 	0.0013	0.0025	0.0001	0.0001	0.0001

@@ -1,0 +1,12 @@
+SVC(C=2.0, break_ties=False, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma=0.05, kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+[[13720  2481]
+ [ 3255  6289]]
+[[17684  1859]
+ [ 3182  3020]]
+[[11252  4494]
+ [ 2397  7602]]
+Q3    	sov     	H acc 	E acc 	- acc 	H sen 	E sen 	- sen 	H ppv 	E ppv 	- ppv 	H mcc 	E mcc 	- mcc 
+1.6569	345.5204	0.7772	0.8042	0.7323	0.8082	0.8475	0.8244	0.8469	0.9049	0.7146	0.0111	0.0109	0.0109
